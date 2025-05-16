@@ -1,0 +1,9 @@
+streamlit==1.26.0
+pandas==2.2.2
+folium==0.14.0
+streamlit-folium==0.11.0
+pillow
+rich
+markdown-it-py
+pygments
+mdurl
